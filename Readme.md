@@ -1,5 +1,7 @@
-# Elm Easy Events
+# Elm Html Table
 
-I found myself writing code over and over again to produce an action from an
-input event on an input field. Or two react to certain keypresses. This module
-provides a few convenience functions to take care of those things quickly.
+![A screenshot of the table output](https://cloud.githubusercontent.com/assets/1227109/13919585/f838f042-ef33-11e5-9a9e-7f75d6e266db.png)
+
+A function that spits out semantic and accessible HTML tables. No more trying to remember all those accessibility steps!
+
+(Note, there's no styling included. The screenshot above has these styles applied: [https://milligram.github.io/](https://milligram.github.io/))
