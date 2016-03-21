@@ -1,0 +1,18 @@
+{
+  "name": "elm-easy-events",
+  "version": "1.0.0",
+  "description": "A small Elm library for convenient adding of action-producing events to elm-html elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elm",
+    "events",
+    "html",
+    "easy",
+    "simple"
+  ],
+  "author": "Murphy Randle",
+  "license": "MIT"
+}
